@@ -1,0 +1,6 @@
+# Compiled programs: Code Runner names them after the source file, with no
+# extension (01_hello_world.c becomes 01_hello_world), so ignore every file
+# that has no extension. Folders and files with an extension are still tracked.
+*
+!*/
+!*.*
